@@ -1,1 +1,1 @@
-# MOO-
+# This Repository contains data set associated with manuscript titiled: Data-driven prediction and intelligent optimization of strength, porosity and cost of concrete with supplementary cementitious materials 
